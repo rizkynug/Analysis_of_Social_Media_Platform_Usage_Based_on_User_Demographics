@@ -18,7 +18,7 @@ This project analyzes social media and entertainment usage patterns across vario
 ## 🛠️ Tech Stack
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Machine Learning**: LinearRegression, GradientBoostingRegressor, Hyperparameter Tuning
-- **Data Visualization** - Tableau
+- **Data Visualization** : Tableau
 - **Jupyter Notebook**, **VS Code**
 
 ## 📁 Dataset
