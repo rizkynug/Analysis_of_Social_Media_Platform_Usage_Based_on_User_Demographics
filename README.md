@@ -1,4 +1,4 @@
-# Social_Media_Entertainment_Analysis
+# Analysis of Social Media Platform Usage Based on User Demographics
 
 ## 📌 Project Description
 This project analyzes social media and entertainment usage patterns across various demographics, such as age, gender, country, and other personal characteristics. By utilizing data from a wide range of users, this analysis aims to uncover insights about how people consume social media platforms. The data is analyzed using various machine learning techniques and statistical methods to help understand trends, correlations, and potential predictive factors.
